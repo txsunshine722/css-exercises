@@ -1,21 +1,29 @@
-.odd-numbers {
-    background-color: pink;
-    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+.odd {
+    background-color: #ffc0cb;
+    font-family: "Comic", "DejaVu Sans", "sans-serif";
 }
 
-.even-numbers {
+.change-font-size {
+    font-size: 24px;
+
+}
+
+#two {
     color: blue;
     font-size: 36px;
 }
 
-#Third {
+
+#four {
+    background-color: lightgreen;
     font-size: 24px;
+    font-weight: bold;
+
 }
 
 
-#Fourth {
+#four {
     background-color: lightgreen;
-    font-size: 24px;
-    font: bold;
+    font-weight: bold;
 
 }
